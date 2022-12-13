@@ -1,5 +1,5 @@
 {
-    "name": "sylius/payum-bundle",
+    "name": "phakpoom/payum-bundle",
     "type": "symfony-bundle",
     "description": "Payum integration for Symfony e-commerce applications.",
     "keywords": [

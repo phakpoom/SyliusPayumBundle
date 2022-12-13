@@ -32,7 +32,7 @@
         "payum/payum": "^1.6",
         "payum/payum-bundle": "^2.4",
         "php-http/guzzle7-adapter": "^1.0",
-        "sylius/core": "^1.6",
+        "phakpoom/sylius-core": "^1.6",
         "sylius/currency": "^1.6",
         "sylius/order-bundle": "^1.6",
         "sylius/payment-bundle": "^1.6",
